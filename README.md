@@ -1,6 +1,6 @@
 # Delivery Attempts Model
 
-A large scale model which takes previous unused customer data at a delivery postcode level and aggregates it various levels including dleivery lcoation, postcode and postcode district. Metrics such as delivery failure ratio, Mode delivery failure time are written in DAX.
+A large scale model which takes previous unused customer data at a delivery postcode level and aggregates it various levels including delivery location, postcode and postcode district. New metrics such as delivery failure ratio, Mode delivery failure time are created in DAX.
 
 Page 1 - Delivery Failure Makeup -  A display of how our delivery fails, when it fails and why it fails.
 ![image](https://github.com/dylanpriceginno/DeliveryAttempts/assets/85695465/132d1a5a-6e31-490d-a85b-c1159eda659e)
